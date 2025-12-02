@@ -17,10 +17,9 @@ Ich möchte mit dieser Seite eine Informations-Möglichkeit zur Verfügung stell
 <details>
 <summary>Kommunalwahl Bayern 2026</summary>
 
-Zentrale Anlaufstelle für Informationen zur Kommunalwahl in Bayern 2026 ist die Webseite des Bayerischen Innenministeriums (STMI): https://www.stmi.bayern.de/wahlen-und-abstimmungen/kommunalwahlen/
-
-
-Der Wahltag ist **Sonntag, 8.3.2026**. Diese Wahlen finden alle sechs Jahre statt. Es werden dabei vor allem Bürgermeister:innen, Landräte, Gemeinde- und Stadträte und Kreisräte gewählt.</details>
+Zentrale Anlaufstelle für Informationen zur Kommunalwahl in Bayern 2026 ist die <a href="https://www.stmi.bayern.de/wahlen-und-abstimmungen/kommunalwahlen/">Webseite des Bayerischen Innenministeriums (STMI)</a>  
+<br>
+Der Wahltag ist Sonntag, 8.3.2026 . Diese Wahlen finden alle sechs Jahre statt. Es werden dabei vor allem Bürgermeister:innen, Landräte, Gemeinde- und Stadträte und Kreisräte gewählt.</details>
 
 ### Kommunalwahl Landshut 2026
 
