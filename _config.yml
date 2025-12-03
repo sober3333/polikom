@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Fabian Meyer-Theobaldy, M.A."
   avatar : "assets/images/FMT_2025.png"
-  bio    : "Kommunikations für Politik und Unternehmen."
+  bio    : "Kommunikationsberatung für Politik und Unternehmen."
   links:
     - # label: "Website"
       icon: "fas fa-fw fa-link"
