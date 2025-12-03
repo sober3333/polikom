@@ -58,11 +58,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Fabian Meyer-Theobaldy, M.A."
+  avatar : "assets/images/FMT_2025.png"
+  bio    : "Kommunikations für Politik und Unternehmen."
   links:
-    - label: "Website"
+    - # label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://fabian-mt.de"
     - # label: "Twitter"
